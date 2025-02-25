@@ -10,4 +10,4 @@ We Don't know the exact date n time when the emulator will be released. probably
 -----------------------------------------------------------------------
 # Credits
 - Me (cause i'm the only one working on this shit lmao.)
-- - Made using github Codespaces (8GB of RAM & 32GB storage.)
+- Made using github Codespaces (8GB of RAM & 32GB storage.)
